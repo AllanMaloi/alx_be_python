@@ -24,5 +24,5 @@ else:
     else:
         reminder += ". Consider completing it at your convenience."
 
-    # Display the reminder
-    print(f"\nReminder: {reminder}")
+    # Display the reminder with the required format
+    print(f"Reminder: {reminder}")
